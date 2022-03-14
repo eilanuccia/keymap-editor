@@ -219,8 +219,8 @@ export default {
 	justify-content: center;
 	align-items: center;
 
-	color: #999;
-	background-color: whitesmoke;
+	color: #222;
+	background-color: #d3d3d3;
 	font-size: 110%;
 	border-radius: 5px;
 }

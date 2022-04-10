@@ -76,6 +76,11 @@
     "params": ["layer"]
   },
   {
+    "code": "&to",
+    "name": "Change Layer",
+    "params": ["layer"]
+  },
+  {
     "code": "&reset",
     "name": "Reset",
     "params": []
@@ -149,6 +154,42 @@
   {
     "code": "&none",
     "name": "None",
+    "params": []
+  },
+  {
+    "code": "&macro",
+    "name": "None",
+    "params": []
+  },
+  {
+    "code": "&oak_copy",
+    "name": "ctrl+v",
+    "params": []
+  },
+  {
+    "code": "&oak_paste",
+    "name": "ctrl+c",
+    "params": []
+  },
+  {
+    "code": "&oak_cut",
+    "name": "ctr+x",
+    "params": []
+  },
+  {
+    "code": "&oak_undo",
+    "name": "ctrl+z",
+    "params": []
+  },
+  {
+    "code": "&oak_redo",
+    "name": "ctrl+y",
+    "params": []
+  }
+  ,
+  {
+    "code": "&oak_wscreen",
+    "name": "Windows prnt screen",
     "params": []
   }
 ]
